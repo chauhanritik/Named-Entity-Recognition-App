@@ -1,0 +1,8 @@
+## Installing Libraries
+
+pip install flask
+pip install spacy
+
+## Downloading model
+
+python -m spacy download en_core_web_sm
