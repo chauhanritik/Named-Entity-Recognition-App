@@ -1,0 +1,1 @@
+This is Named Entity Recognition (NER) application using spaCy in a Flask web framework. It allows users to upload text files, which the application processes to extract entities like names, organizations, and locations. These entities are visualised using spaCy’s displaCy module.
